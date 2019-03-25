@@ -4,7 +4,9 @@
 # Lecturer Ian McLough
 # Galway Mayo Istitute Of technology
 
-Variables Example… Handy for beginners. Even you can consult this book as well
+Variables Exampleâ€¦ Handy for beginners. Even you can consult this book as well
 Book # Non-Programmer's_Tutorial_for_Python_3
 
-Calculate Positive Factorial Numbers…
+Calculate Positive Factorial Numbersâ€¦
+
+Thompson's Construction taken helped from Ian's video on moodle 
