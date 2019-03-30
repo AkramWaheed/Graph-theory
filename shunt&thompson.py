@@ -1,8 +1,6 @@
-#GMIT.ie
 #Regular Expression Matcher
 #Waheed Akram
 #ID G00341970
-#Lecturer Ian Mcloughlin
 #GMIT Ireland
 def shunt(infix):
 #The Shunting yard Algorithm for converting infix regular expression to postfix.
