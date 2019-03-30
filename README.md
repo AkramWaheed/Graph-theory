@@ -4,14 +4,16 @@
 # Lecturer Ian McLoughlin
 # Galway Mayo Institute Of technology
 
-Variables Example… Handy for beginners. Even you can consult this book as well
+Variables Exampleâ€¦ Handy for beginners. Even you can consult this book as well
 Book # Non-Programmer's_Tutorial_for_Python_3
 
-Calculate Positive Factorial Numbers…
+Calculate Positive Factorial Numbersâ€¦
 
 
-Thompson’s Construction help is taken from Ian Mcloughlin video available on moodle.
+Thompsonâ€™s Construction help is taken from Ian Mcloughlin video available on moodle.
 
 
 Shunt Yard Algorithm , help is taken from Ian Mcloughlin video , visit and research the website
 http://www.oxfordmathcenter.com/drupal7/node/628
+
+Debugged code is updated , there was a syntax error at line 16 earlier but now it's working perfectly  
